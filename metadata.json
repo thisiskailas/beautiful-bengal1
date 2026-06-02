@@ -1,0 +1,6 @@
+{
+  "name": "Beautiful Bengal",
+  "description": "Beautiful Bengal is a tourism, culture, heritage, information, and local Kakdwip subdivision vessel ferry timetable service portal for West Bengal, India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
